@@ -1,0 +1,9 @@
+body {
+  background: black;
+}
+
+.content__title {
+  color: #df4a6f;
+  /* padding: 0 !important
+  margin: 0 !important;; */
+}
